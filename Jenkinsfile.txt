@@ -6,5 +6,6 @@ Tools{
     Swagger
     Nexus
     SonarQuebe
+    Junit
 
 }
