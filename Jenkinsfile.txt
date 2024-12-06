@@ -7,5 +7,5 @@ Tools{
     Nexus
     SonarQuebe
     Jenkins
-
+    Junit
 }
