@@ -1,11 +1,10 @@
 Tools{
 	
     Jira
-	Docker
-	PostMan
+    Docker
+    PostMan
     Swagger
 
-     
-        Nexus
+    Nexus
 
 }
