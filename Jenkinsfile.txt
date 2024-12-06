@@ -1,6 +1,8 @@
 Tools{
 	
+    Jira
 	Docker
 	PostMan
-        Swagger
+    Swagger
+
 }
